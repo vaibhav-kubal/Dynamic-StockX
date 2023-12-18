@@ -24,8 +24,8 @@ This is a robust Inventory Management System developed using Spring Boot, design
 - **GitHub Actions Integration:**
   - Leverages GitHub Actions to automate the synchronization of inventory highlights, ensuring real-time updates.
 
-🤝 Contributions
+**🤝 Contributions:**
 Contributions are welcome! Feel free to add extra features and new integrations.
 
-👤 Author
+**👤 Author:**
 Vaibhav Kubal
