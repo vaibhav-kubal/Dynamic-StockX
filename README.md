@@ -1,8 +1,8 @@
-# Inventory Stock Tracker
+# Dynamic StockX
 
 ## Overview
 
-This is a robust Inventory Management System developed using Spring Boot, designed to efficiently manage and track inventory records for various parts stored in warehouses.
+This is a robust Inventory Stock Tracker developed using Spring Boot, designed to efficiently manage and track inventory records for various parts stored in warehouses.
 
 ## 🚀 Key Features
 
